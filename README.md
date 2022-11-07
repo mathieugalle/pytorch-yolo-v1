@@ -10,7 +10,7 @@ https://www.youtube.com/watch?v=n9_XyCGr-MI
 et le papier : 
 https://arxiv.org/pdf/1506.02640.pdf
 
-Des Batch-Normaliations ont été rajoutées par rapport au papier parce qu'on est en 2022.
+Des Batch-Normalisations ont été rajoutées par rapport au papier parce qu'on est en 2022.
 J'ai utilisé pytorch parce que j'en ai plein le cul de Tensorflow.
 
 La partie qui reste quand même un peu compliquée pour moi reste la définition du loss :-/
